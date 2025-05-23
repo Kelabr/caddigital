@@ -84,11 +84,62 @@ export default function Form() {
           <SelectContent className="max-h-48 overflow-y-auto">
             <SelectGroup>
               <SelectLabel>Escolas</SelectLabel>
-              <SelectItem value="Aracy">Aracy</SelectItem>
+              <SelectItem value="Acre">Acre</SelectItem>
+              <SelectItem value="Alagoas">Alagoas</SelectItem>
+              <SelectItem value="Almerinda">Almerinda</SelectItem>
+              <SelectItem value="Amapa">Amapa</SelectItem>
+              <SelectItem value="Amazonas">Amazonas</SelectItem>
               <SelectItem value="Ana_Luiza">Ana Luiza</SelectItem>
-              <SelectItem value="Tocantins">Tocantins</SelectItem>
+              <SelectItem value="Anchieta">Anchieta</SelectItem>
+              <SelectItem value="Bahia">Bahia</SelectItem>
+              <SelectItem value="Ceara">Ceará</SelectItem>
+              <SelectItem value="Celita">Celita</SelectItem>
+              <SelectItem value="Cemead">Cemead</SelectItem>
+              <SelectItem value="Conservatorio">Conservatório</SelectItem>
+              <SelectItem value="Dom_Pedro_I">Dom Pedro I</SelectItem>
+              <SelectItem value="Elza">Elza</SelectItem>
+              <SelectItem value="Espirito_Santo">Espirito Santo</SelectItem>
+              <SelectItem value="Fatima">Fátima</SelectItem>
+              <SelectItem value="Goias">Goiás</SelectItem>
+              <SelectItem value="Jayme">Jayme</SelectItem>
+              <SelectItem value="Jardim_Casqueiro">Jardim Casqueiro</SelectItem>
               <SelectItem value="Joao_Ramalho">João Ramalho</SelectItem>
-              <SelectItem value="Para">Para</SelectItem>
+              <SelectItem value="Lorena">Lorena</SelectItem>
+              <SelectItem value="Lucy">Lucy Montoro</SelectItem>
+              <SelectItem value="Luiz_Gustavo">Luiz Gustavo</SelectItem>
+              <SelectItem value="Luiza_Cortez">Luiza Cortez</SelectItem>
+              <SelectItem value="Maranhao">Maranhão</SelectItem>
+              <SelectItem value="Maria_Albertina">Maria Albertina</SelectItem>
+              <SelectItem value="Maria_do_Rosario">Maria do Rosário</SelectItem>
+              <SelectItem value="Maria_Liberata">Maria Liberata</SelectItem>
+              <SelectItem value="Maria_Rosa">Maria Rosa</SelectItem>
+              <SelectItem value="Mario_de_Oliveira">Mario de Oliveira</SelectItem>
+              <SelectItem value="CEU_I">CEU I</SelectItem>
+              <SelectItem value="CEU_II">CEU II</SelectItem>
+              <SelectItem value="Marta_Magali">Marta Magali</SelectItem>
+              <SelectItem value="Mato_Grosso">Mato Grosso</SelectItem>
+              <SelectItem value="Minas_Gerais">Minas Gerais</SelectItem>
+              <SelectItem value="Musicalização">Musicalização</SelectItem>
+              <SelectItem value="Nobrega">Nobrega</SelectItem>
+              <SelectItem value="Olivieri">Olivieri</SelectItem>
+              <SelectItem value="Ortega">Ortega</SelectItem>
+              <SelectItem value="Para">Pará</SelectItem>
+              <SelectItem value="Pernambuco">Pernambuco</SelectItem>
+              <SelectItem value="Pieruzzi">Pieruzzi</SelectItem>
+              <SelectItem value="Princesa_Isabel">Princesa Isabel</SelectItem>
+              <SelectItem value="Pucciariello">Pucciariello</SelectItem>
+              <SelectItem value="Rio_Grande_do_Sul">Rio Grande do Sul</SelectItem>
+              <SelectItem value="Rui_Barbosa">Rui Barbosa</SelectItem>
+              <SelectItem value="Santa_Catarina">Santa Catarina</SelectItem>
+              <SelectItem value="São_Paulo">São Paulo</SelectItem>
+              <SelectItem value="São_Jose">São José</SelectItem>
+              <SelectItem value="Sofia_Zarzur">Sofia Zarzur</SelectItem>
+              <SelectItem value="Tocantins">Tocantins</SelectItem>
+              <SelectItem value="Ulysses">Ulysses</SelectItem>
+              <SelectItem value="Usina">Usina</SelectItem>
+              <SelectItem value="Geraldo_Guedes_I">Geraldo Guedes I</SelectItem>
+              <SelectItem value="Geraldo_Guedes_II">Geraldo Guedes II</SelectItem>
+              <SelectItem value="Seduc">Seduc</SelectItem>
             </SelectGroup>
           </SelectContent>
         </Select>
